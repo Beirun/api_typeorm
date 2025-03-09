@@ -10,7 +10,7 @@ This is a basic RESTful API using Node, Express, Typescript, and TypeORM.
 ```bash
 git clone https://github.com/Beirun/api_typeorm.git
 ```
-‎ 
+‎‎‎  
 ‎ 2. Install packages
 
 ```bash
@@ -29,7 +29,7 @@ api_typeorm
 └─tsconfig.json
 └─.env
 ```
-‎ ‎
+‎‎  
 ‎ 4. Run dev script
 ```bash
 npm run dev
